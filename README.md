@@ -1,16 +1,23 @@
-### Hi there 👋
+<h1> Hello Fellow < Developers/ >!</h1>
+<p align='center'>
 
-<!--
-**kareem-m/kareem-m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+</p>
+<div size='20px'>I'm an Egyptian student, I learned programming by myself and now I can program the destinations of websites and computer applications. My favorite hobby is programming and development in general.
+</div>
 
-Here are some ideas to get you started:
+<h2>About Me</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+
+- 🔭 I’m currently working on Develop and acquire new skills
+- 🌱 I’m currently learning React.js and Node.js
+- 👯 I’m looking to collaborate on E-commerce website development
+- 💬 Ask me about any Thing about web development
+- 📫 How to reach me: on [Facebook](https://www.facebook.com/kareem1911/)
+- 😄 Pronouns: he/him
+
+<h2>My Skills</h2>
+
+- Front-End: HTML / CSS / Pug / Sass / JavaScript / Bootstrap
+- Back-end: Very Soon
+- other skills: Git / Python / Tkinter
