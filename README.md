@@ -20,4 +20,4 @@
 
 - Front-End: HTML / CSS / Pug / Sass / JavaScript / Bootstrap
 - Back-end: EJS
-- other skills: Git / Python / Tkinter
+- Extra skills: Git / Python / Tkinter
