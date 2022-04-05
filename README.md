@@ -10,7 +10,7 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 - 🔭 I’m currently working on Develop and acquire new skills
-- 🌱 I’m currently learning React.js and Node.js
+- 🌱 I’m currently learning PHP, React.js
 - 👯 I’m looking to collaborate on E-commerce website development
 - 💬 Ask me about any Thing about web development
 - 📫 How to reach me: on [Facebook](https://www.facebook.com/kareem1911/)
@@ -19,5 +19,5 @@
 <h2>My Skills</h2>
 
 - Front-End: HTML / CSS / Sass / Pug.js / Gulp.js / JavaScript / Bootstrap
-- Back-end: EJS
-- Extra skills: Git / Python / Tkinter
+- Back-end: Soon
+- Extra skills: Git / Python / Tkinter / Very simple basic of Node.js and Express.js
