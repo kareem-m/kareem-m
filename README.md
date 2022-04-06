@@ -18,6 +18,6 @@
 
 <h2>My Skills</h2>
 
-- Front-End: HTML / CSS / Sass / Pug.js / Gulp.js / JavaScript / Bootstrap
+- Front-End: HTML / CSS / Bootstrap / Sass / Pug.js / Gulp.js / JavaScript / Jest
 - Back-end: Soon
-- Extra skills: Git / Python / Tkinter / Very simple basic of Node.js and Express.js
+- Extra skills: Git / Python / Tkinter
