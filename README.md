@@ -19,5 +19,5 @@
 <h2>My Skills</h2>
 
 - Front-End: HTML / CSS / Bootstrap / Sass / Pug.js / Gulp.js / JavaScript / Jest
-- Back-end: Soon
+- Back-end: PHP
 - Extra skills: Git / OOP / Python / Tkinter
