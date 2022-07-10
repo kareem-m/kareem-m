@@ -20,4 +20,4 @@
 
 - Front-End: HTML / CSS / Bootstrap / Sass / Pug.js / Gulp.js / JavaScript / Jest
 - Back-end: Soon
-- Extra skills: Git / Python / Tkinter
+- Extra skills: Git / OOP / Python / Tkinter
