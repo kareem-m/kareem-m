@@ -29,8 +29,9 @@
 <br>
 
 - <b>Front-End</b>: HTML / CSS / JavaScript / Bootstrap / Sass / Pug.js / Gulp.js / TypeScript / Jest / JSON / AJAX
-- <b>Back-end</b>: PHP / Laravil
-- <b>Extra skills</b>: Git / OOP / Canvas api / Python / Tkinter
+- <b>Back-end</b>: PHP
+- <b>Data Science</b> R / Shiny / Python / Tkinter
+- <b>Extra skills</b>: Java / Git / OOP / Canvas api / Binary
 
 <br>
 <hr>
