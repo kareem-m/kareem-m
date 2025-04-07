@@ -35,4 +35,4 @@
 
 <br>
 <hr>
-Feel free to contact me via <a href="mailto:kareemmoh1911@gmail.com">Gmail</a>
+Feel free to contact me via <a href="https://kareem.is-a.dev/">https://kareem.is-a.dev/</a>
