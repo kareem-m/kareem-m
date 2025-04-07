@@ -35,4 +35,4 @@
 
 <br>
 <hr>
-Feel free to contact me via <a href="https://kareem.is-a.dev/">https://kareem.is-a.dev/</a>
+Feel free to contact me via <a href="https://kareem.is-a.dev">kareem.is-a.dev</a>
